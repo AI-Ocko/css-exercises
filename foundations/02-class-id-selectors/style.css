@@ -1,4 +1,11 @@
 .class {
     background-color: rgb(205, 92, 92);
-
+    font-family: Verdana, DejaVu Sans, sans-serif ;
 }
+
+#one-ID {
+    color: #0000ff;
+    font-size: 36px ;
+}
+
+.cooler-class   
