@@ -32,4 +32,9 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
 }
+
+/* I didn't know you could add multiple parameters to things like the margin and the padding, good to know
