@@ -19,6 +19,7 @@ body {
 
 .right-items {
   display: flex;
+  justify-content: space-between;
 }
 
 .logo {
@@ -37,6 +38,10 @@ a {
 ul {
   list-style-type: none;
   display:flex;
+}
+
+li {
+  padding: 6px;
 }
 
 .left-items {
