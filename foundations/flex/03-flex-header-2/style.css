@@ -27,6 +27,15 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.links {
+  padding-left: 10px;
 }
 
 a {
