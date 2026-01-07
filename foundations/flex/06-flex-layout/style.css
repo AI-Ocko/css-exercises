@@ -9,6 +9,18 @@ body {
   flex-direction: column;
 }
 
+.footer,
+.header {
+  display:flex;
+  justify-content: space-between;
+}
+
+.left-links,
+.right-links {
+  display: flex;
+  list-style-type: none;
+}
+
 img {
   width: 600px;
 }
