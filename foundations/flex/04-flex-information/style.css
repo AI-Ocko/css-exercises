@@ -5,6 +5,20 @@ body {
   flex-direction: column;
 }
 
+.body {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.items {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  text-align: center;
+}
+
 img {
   width: 100px;
   height: 100px;
