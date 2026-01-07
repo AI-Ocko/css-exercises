@@ -19,6 +19,12 @@ body {
 .right-links {
   display: flex;
   list-style-type: none;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
 }
 
 img {
