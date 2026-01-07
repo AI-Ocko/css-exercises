@@ -32,10 +32,13 @@ body {
 .top {
   display: flex;
   justify-content: space-between;
+  margin-top: 10px;
+  margin-right: 10px;
 }
 
 .header {
   font-weight: bold;
+  margin-top: 5px;
 }
 
 .icon {
@@ -68,10 +71,15 @@ body {
   padding: 0;
 }
 
+.text {
+  margin-bottom: 10px;
+}
+
 button {
   cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
+  margin-bottom: 10px;
 }
 
 button.continue {
