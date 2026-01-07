@@ -32,7 +32,7 @@ li {
   font-weight: 900;
   font-size: 32px;
   align-items: center;
-  padding-left: 15px;
+  padding-left: 16px;
 }
 
 .section {
@@ -44,6 +44,9 @@ li {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
