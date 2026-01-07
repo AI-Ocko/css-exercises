@@ -17,6 +17,10 @@ body {
   /* justify-content: center; */
   align-items: center;
   text-align: center;
+  margin-top: 32px; 
+  margin-left: 52px;
+  margin-right: 52px;
+  /* i wrote margins that matched the self-check, but they don't look quite like what's in the desired outcome. I spent so much time trying to figure out why my items weren't even displaying properly in the frst place, all because of a missing ">" in my html file. I think I'd like to be done working on this now.  */
 }
 
 img {
