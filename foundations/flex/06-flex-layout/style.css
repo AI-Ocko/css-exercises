@@ -26,8 +26,10 @@ body {
 .left-links,
 .right-links {
   display: flex;
+  gap: 20px;
   list-style-type: none;
   padding: 0px;
+  margin: 15px;
 }
 
 a {
