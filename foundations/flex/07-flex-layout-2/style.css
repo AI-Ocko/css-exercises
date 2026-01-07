@@ -52,7 +52,7 @@ a {
 
 .rightlist {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   flex: 75;
 }
 
@@ -60,4 +60,7 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  flex: 0 0 300px;
+  margin: 20px;
+  padding: 10px;
 }
